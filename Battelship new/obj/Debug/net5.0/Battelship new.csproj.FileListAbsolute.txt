@@ -1,0 +1,16 @@
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.exe
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.deps.json
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.runtimeconfig.json
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.runtimeconfig.dev.json
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.dll
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\bin\Debug\net5.0\Battelship new.pdb
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.csproj.AssemblyReference.cache
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.AssemblyInfoInputs.cache
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.AssemblyInfo.cs
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.dll
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\refint\Battelship new.dll
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.pdb
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\Battelship new.genruntimeconfig.cache
+C:\Users\Mohammed AbuJayyab\source\repos\Battelship new\Battelship new\obj\Debug\net5.0\ref\Battelship new.dll
